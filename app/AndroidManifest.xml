@@ -70,8 +70,8 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data android:scheme="https"
-                  android:host="appauth.demo-app.io"
-                  android:path="/oauth2redirect"/>
+                  android:host="www.pprd1.postelo.fr"
+                  android:path="/mobile-app-openid-redirect"/>
             </intent-filter>
         </activity>
     </application>
